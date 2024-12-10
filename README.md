@@ -2,8 +2,9 @@
 
 # Olá, eu sou a Maria 👋
 
-- Formada em Tecnologia em Sistemas Para Internet- IFB (2022).
-- Técnica em Desenvolvimento de Sistemas - IFB (2019);
+- Cursando Tecnologia da Informação - UFMS (atual);
+- Formada em Tecnologia em Sistemas Para Internet- IFB (2022);
+- Técnica em Desenvolvimento de Sistemas - IFB (2019).
 
 ## Linguagens mais utilizadas
 
